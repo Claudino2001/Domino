@@ -9,7 +9,7 @@
  
  É um jogo fiel ao tradicional jogo de dominó.
  
- Para maiores detalhes a função `regras()` irá lhe instruir.
+ Para maiores o PDF `Regras Dominó` irá lhe instruir.
  
  ### Desenvolvedores:
  * Gabriel Claudino [Perfil GitHub](https://github.com/Claudino2001)
